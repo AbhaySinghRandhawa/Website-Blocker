@@ -1,0 +1,1 @@
+Using this program we can block / unblock any website by making changes to the "hosts" file in our computer.
